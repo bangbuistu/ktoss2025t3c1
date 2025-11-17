@@ -1,0 +1,16 @@
+Thực hiện theo thứ tự các yêu cầu sau:
+Cau 1.
+- Hãy tạo thêm 3 nhánh: mã số sv của bạn, 1 nhánh MSSV_cpp và MSSV_sh.
+Câu 2.
+- Hãy tạo ra 1 file word để giải thích công dụng của lệnh diff. Cho ví dụ minh hoạ
+- Làm xong câu 1, đưa file word này lên nhánh MSSV. 
+Câu 3. 
+- Trong nhánh MSSV_cpp chứa chương trình kiểm tra 1 số nguyên nhập vào là số dương hay là số âm viết bằng C++.
+- Trong nhánh MSSV_sh chứa chương trình kiểm tra 1 số nguyên nhập vào là số dương hay là số âm viết bằng Shell Script.
+Câu 4. 
+- Đưa 3 nhánh trên lên github 
+Câu 5.
+- Hãy mở file world trong câu 1 trong nhánh Mã số SV củ bạn để thêm phần hướng dẫn chạy 2 file trên. 
+Câu 6.
+- Trộn 2 nhánh MSSV_cpp và MSSV_sh vào nhánh MSSV của bạn
+- Cập nhật 3 nhánh lên GitHub
