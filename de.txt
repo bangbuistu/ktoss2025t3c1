@@ -1,0 +1,16 @@
+Thực hiện theo thứ tự các yêu cầu sau:
+Cau 1.
+- Hãy tạo thêm 3 nhánh: mã số sv của bạn, 1 nhánh MSSV_cpp và MSSV_sh.
+Câu 2.
+- Hãy tạo ra 1 file word để hướng dẫn sử dụng git stash và các lệnh có liên quan đến stash
+Làm xong câu 1, đưa file word này lên nhánh MSSV. 
+Câu 3. 
+- Trong nhánh MSSV_cpp chứa chương trình kiểm tra 1 số nguyên nhập vào có phải là bội số của 3 không viết bằng C++.
+- Trong nhánh MSSV_sh chứa chương trình kiểm tra 1 số nguyên nhập vào có phải là bội số của 3 không Shell Script.
+Câu 3. 
+- Đưa 3 nhánh trên lên github 
+Câu 4.
+- Hãy mở file world trong câu 1 trong nhánh Mã số SV củ bạn để thêm phần hướng dẫn chạy 2 file trên. 
+Câu 5.
+- Trộn 2 nhánh MSSV_cpp và MSSV_sh vào nhánh MSSV của bạn
+- Cập nhật 3 nhánh lên GitHub
