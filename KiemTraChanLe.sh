@@ -7,3 +7,7 @@ KiemTraChanLe() {
         echo "$n là số lẻ."
     fi
 }
+
+echo "Kiểm tra chẵn lẻ:"
+KiemTraChanLe 20
+
