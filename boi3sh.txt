@@ -1,0 +1,7 @@
+#!/bin/hash
+read -p "Nhap so: "n
+if((n % 3 == 0));then
+   echo "$n la boi so cua 3"
+ else
+    echo "$n khong phai la boi so cua 3"
+fi
