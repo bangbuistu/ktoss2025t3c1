@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main() {
+	int n;
+	cout << "Nhap mot so: ";
+	cin >> n;
+	if(n % 3 == 0) {
+	cout << "\nn la boi so cua 3";
+}
+	else cout << "\n n khong phai la boi so cua 3";
+	return 0;
+}
