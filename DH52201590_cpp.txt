@@ -1,0 +1,6 @@
+ bool kt(int n=3){
+int i;
+if (i%sqrt(n))
+return true;
+return false; 
+}
