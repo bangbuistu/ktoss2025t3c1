@@ -1,0 +1,7 @@
+
+git stash
+git stash list
+git stash apply    # Giữ stash lại
+# hoặc
+git stash pop      # Khôi phục và xóa stash
+git stash drop
