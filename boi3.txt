@@ -1,0 +1,12 @@
+#includeiostream
+using namespace std;
+void kTSNChiaHet3(int x)
+{
+	coutNhap so nguyen ;
+	cinx;
+	if( x 0 && x %3 == 0)
+		coutday la so chia het cho 3;
+	else
+		coutday khong phai la so chia het cho 3;
+	return 0;
+}
